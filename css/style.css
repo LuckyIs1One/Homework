@@ -1,0 +1,60 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.wrapper {
+	display: flex;
+	justify-content: center;
+}
+
+.container {
+	padding: 20px;
+	background-color: #EBEBEB;
+    border-radius: 10px;
+    margin: 0 auto;
+    width: 640px;
+}
+
+.ul_4 {
+	display: flex;
+	list-style: none;
+}
+.ul_4 {
+	display: flex;
+	flex-wrap: wrap;
+	width: 400px;
+
+	margin: 40px 0;
+}
+
+.text_5 {
+	margin-bottom: 30px;
+	font-size: 20px;
+	padding: 0 40px;
+
+	background-image: url('https://i7.pngguru.com/preview/474/289/251/computer-icons-career-portfolio-5th-international-research-gsom-emerging-markets-conference-2018-saint-petersburg-state-university-symbol-symbol.jpg');
+	background-size: contain;
+	background-repeat: no-repeat;
+	opacity: .9;
+}
+
+.li_5 {
+	list-style: none;
+	margin-bottom: 50px;
+}
+
+.imeg_3 {
+	background-image: url('https://img2.freepng.ru/20180718/wky/kisspng-incandescent-light-bulb-computer-icons-lamp-o-creative-5b4fbc157c0211.685636751531952149508.jpg');
+	background-size: contain;
+	background-repeat: no-repeat;
+	opacity: .9;
+}
+
+.imeg_4 {
+	background-image: url('https://c7.hotpng.com/preview/131/553/238/computer-icons-document-file-format-others.jpg');
+	background-size: contain;
+	background-repeat: no-repeat;
+	opacity: .9;
+}
